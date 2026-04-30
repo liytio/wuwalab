@@ -13,8 +13,6 @@ Berikut adalah hasil pengujian aplikasi berdasarkan aspek kualitas yang telah di
 |:--:|:---|:---|:---|:---:|:---|
 | 1 | **Functionality** | Membuka detail "Lihat Build" pada daftar Resonator. | Menampilkan halaman detail karakter, senjata, dan rekomendasi tim tanpa error database. | ✅ Pass | Fitur berjalan sesuai desain. |
 | 2 | **Usability** | Berpindah tab antara Tower of Adversity dan Whimpering Wastes pada halaman Tier List. | Tab berganti secara instan beserta konten di bawahnya, dan tombol aktif berubah warna. | ✅ Pass | Transisi lancar tanpa *reload* halaman. |
-| 3 | *(Aspek Lain)* | *(Isi dengan skenario Anda)* | *(Isi dengan hasil)* | ✅ Pass | - |
-| 4 | *(Aspek Lain)* | *(Isi dengan skenario Anda)* | *(Isi dengan hasil)* | ✅ Pass | - |
 
 ## 🛠️ Teknologi yang Digunakan
 - Framework: Laravel (PHP)
