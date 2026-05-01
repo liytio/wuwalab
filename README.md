@@ -4,7 +4,7 @@ WuwaLab adalah pusat informasi berbasis web untuk game Wuthering Waves. Menyedia
 
 ## 🔗 Tautan Akses
 - **Source Code (GitHub):** [Masukkan Link Repo Anda di sini]
-- **Link Publish Web:** [Masukkan Link Web yang sudah di-hosting di sini]
+- **Link Publish Web:** [[http://wuwalabepizy.gamer.gd](http://wuwalabepizy.gamer.gd)]
 
 ## 🧪 Pengujian Aplikasi (Berdasarkan Daily Project 6)
 Berikut adalah hasil pengujian aplikasi berdasarkan aspek kualitas yang telah ditentukan pada fase desain:
@@ -18,5 +18,3 @@ Berikut adalah hasil pengujian aplikasi berdasarkan aspek kualitas yang telah di
 - Framework: Laravel (PHP)
 - Styling: Tailwind CSS
 - Database: MySQL
-
-[http://wuwalabepizy.gamer.gd](http://wuwalabepizy.gamer.gd)
