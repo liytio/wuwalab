@@ -3,7 +3,7 @@
 WuwaLab adalah pusat informasi berbasis web untuk game Wuthering Waves. Menyediakan panduan pemula, tier list karakter berdasarkan mode *endgame* (Tower of Adversity & Whimpering Wastes), daftar senjata, hingga sistem Echo.
 
 ## 🔗 Tautan Akses
-- **Source Code (GitHub):** [Masukkan Link Repo Anda di sini]
+- **Source Code (GitHub):** [https://github.com/liytio/wuwalab.git]
 - **Link Publish Web:** [[http://wuwalabepizy.gamer.gd](http://wuwalabepizy.gamer.gd)]
 
 ## 🧪 Pengujian Aplikasi (Berdasarkan Daily Project 6)
