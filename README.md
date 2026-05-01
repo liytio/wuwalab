@@ -18,3 +18,5 @@ Berikut adalah hasil pengujian aplikasi berdasarkan aspek kualitas yang telah di
 - Framework: Laravel (PHP)
 - Styling: Tailwind CSS
 - Database: MySQL
+
+[http://wuwalabepizy.gamer.gd](http://wuwalabepizy.gamer.gd)
