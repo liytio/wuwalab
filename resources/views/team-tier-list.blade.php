@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Team Tier List - WuwaLab</title>
+    <title>Team Tier List - WutheringWK</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         /* Custom scrollbar untuk container jika timnya terlalu banyak */
@@ -14,14 +14,7 @@
 <body class="bg-[#11131a] text-gray-300 font-sans antialiased leading-relaxed">
 
     <!-- NAVBAR -->
-    <nav class="bg-[#1A1D2A] p-4 shadow-lg border-b border-gray-800 sticky top-0 z-50">
-        <div class="container mx-auto flex justify-between items-center">
-            <a href="/" class="text-2xl font-black text-blue-400 tracking-wider">WuwaLab</a>
-            <ul class="flex space-x-8 text-sm font-semibold text-gray-300">
-                <li><a href="/" class="hover:text-white transition">← Kembali ke Beranda</a></li>
-            </ul>
-        </div>
-    </nav>
+    @include('partials.nav')
 
     <!-- MAIN CONTENT -->
     <div class="container mx-auto px-4 py-8 max-w-7xl">
