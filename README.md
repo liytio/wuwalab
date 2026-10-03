@@ -4,7 +4,7 @@ WutheringWK adalah pusat informasi berbasis web untuk game Wuthering Waves. Meny
 
 ## 🔗 Tautan Akses
 - **Source Code (GitHub):** [https://github.com/liytio/wuwalab.git]
-- **Link Publish Web:** [[http://wuwalabepizy.gamer.gd](http://wuwalabepizy.gamer.gd)]
+- **Link Publish Web:** [http://wutheringwk.gamer.free](http://wutheringwk.gamer.free)
 
 ## 🧪 Pengujian Aplikasi (Berdasarkan Daily Project 6)
 Berikut adalah hasil pengujian aplikasi berdasarkan aspek kualitas yang telah ditentukan pada fase desain:
